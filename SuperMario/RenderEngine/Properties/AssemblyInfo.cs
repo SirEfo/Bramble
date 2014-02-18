@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("JustRPGGame")]
+[assembly: AssemblyTitle("RenderEngine")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("JustRPGGame")]
+[assembly: AssemblyProduct("RenderEngine")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("668fc3fc-ecba-4f5d-8278-9121bbd74c6d")]
+[assembly: Guid("c4e646f4-165a-4632-8df7-20ce89005f7c")]
 
 // Version information for an assembly consists of the following four values:
 //
