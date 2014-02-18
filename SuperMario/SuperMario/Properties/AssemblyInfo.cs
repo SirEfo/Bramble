@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("RenderEngine")]
+[assembly: AssemblyTitle("SuperMario")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("RenderEngine")]
+[assembly: AssemblyProduct("SuperMario")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c4e646f4-165a-4632-8df7-20ce89005f7c")]
+[assembly: Guid("feb6031a-6daa-4c71-93da-0a9a52b46fb5")]
 
 // Version information for an assembly consists of the following four values:
 //
